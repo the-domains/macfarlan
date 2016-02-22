@@ -1,0 +1,14 @@
+layout_spectrum: 0.2650334
+typography_spectrum: 0.7898404
+color:
+  saturation: 0.8973449
+  lightness: 0.1983583
+  brandStrength: 0.599916
+  rhythmicContrast: 0.1672387
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+name: Macfarlan
