@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Macfarlan]]></title>
-        <description><![CDATA[Macfarlan]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[MACFARLAN.NET]]></title>
+        <description><![CDATA[MACFARLAN.NET]]></description>
+        <link>https://thegrid.ai/macfarlan/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 22 Feb 2016 18:38:54 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 02 Mar 2016 03:38:49 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/macfarlan/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>The Lofted Lens</p>]]></description>
+            <link>https://thegrid.ai/macfarlan/43e32ed6-15a3-4b5d-a74d-a15b4e03c74b/index.html</link>
+            <guid isPermaLink="false">43e32ed6-15a3-4b5d-a74d-a15b4e03c74b</guid>
+            <pubDate>Wed, 02 Mar 2016 03:37:56 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>This is a draft of my text for Macfarlan.net</p>]]></description>
-            <link>undefineda29b95f9-a25d-4485-ae11-a443f1f00e9a/index.html</link>
+            <link>https://thegrid.ai/macfarlan/a29b95f9-a25d-4485-ae11-a443f1f00e9a/index.html</link>
             <guid isPermaLink="false">a29b95f9-a25d-4485-ae11-a443f1f00e9a</guid>
             <pubDate>Mon, 22 Feb 2016 18:38:22 GMT</pubDate>
         </item>
